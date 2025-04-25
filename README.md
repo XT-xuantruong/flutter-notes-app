@@ -99,4 +99,4 @@ Follow these steps to set up and run the project locally:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:xuantruong2k4.dev@gmail.com).
+For questions or feedback, please contact [xuantruong2k4.dev@gmail.com](mailto:xuantruong2k4.dev@gmail.com).
